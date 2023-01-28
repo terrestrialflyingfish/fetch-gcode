@@ -1,0 +1,15 @@
+{
+  "name": "get-gcode",
+  "version": "0.0.1",
+  "description": "utility to get gcode files from copper.carbide3d.com",
+  "main": "utility.js",
+  "author": "terrestrialflyingfish",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "file-regex": "^3.1.0",
+    "ip": "^1.1.8",
+    "testcafe": "^1.20.1"
+  },
+  "type": "module"
+}
