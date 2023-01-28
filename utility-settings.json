@@ -1,0 +1,9 @@
+{
+ "dwndir":"~/Downloads",
+ "signalFile":"~/project/CAMOutputs/GerberFiles/copper_top.gbr",
+ "drillFile":"~/project/CAMOutputs/DrillFiles/drill_1_16.xln",
+ "profileFile":"~/project/CAMOutputs/GerberFiles/profile.gbr",
+ "uploadedFilePrefix":"C:\\fakepath\\",
+ "isMulti":false,
+ "browser":"chrome"
+}
