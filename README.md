@@ -2,6 +2,8 @@
 
 Utility that automates using the [Copper Carbide](https://copper.carbide3d.com) to generate gcode from Gerber files.
 
+This is an extremely rough draft.
+
 ## Usage Instructions
 
 First, make sure [npm](https://docs.npmjs.com/cli/v7/configuring-npm/install) is installed.
